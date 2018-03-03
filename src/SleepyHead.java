@@ -16,7 +16,7 @@ public class SleepyHead {
          * JOptionPane.showConfirmDialog(null, "is it a weekday?", "",
          * JOptionPane.YES_NO_OPTION);
          */
-    
+    JOptionPane.showConfirmDialog(null, "Is it a weekday?", "Are you on vacation?", 0);
 
 
         /*
